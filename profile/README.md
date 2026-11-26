@@ -17,6 +17,12 @@
   <a href="https://kodigo-grupo-12.github.io/documentacion/">Sitio</a>
 </h6>
 
+<h3 align="center">
+  <a href="https://kodigo-grupo-12.github.io/documentacion/"><img src="https://img.shields.io/badge/DOCUMENTACI%C3%93N-EN%20VIVO-cba6f7?style=for-the-badge&logo=gitbook&logoColor=cdd6f4&labelColor=1e1e2e" alt="Documentación en vivo"/></a>
+  &nbsp;&nbsp;
+  <a href="https://kodigo-grupo-12.github.io/monorepo/"><img src="https://img.shields.io/badge/CU%C3%89NTAME-APP%20EN%20VIVO-89b4fa?style=for-the-badge&logo=expo&logoColor=cdd6f4&labelColor=1e1e2e" alt="App Cuéntame en vivo"/></a>
+</h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/kodigo-grupo-12/.github/main/Assets/macchiato.png" width="400" alt="Divider"/>
 </p>
