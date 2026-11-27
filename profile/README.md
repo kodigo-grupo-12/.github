@@ -44,7 +44,6 @@
   <strong>INTEGRANTES</strong><br/>
   Roberto Carlos Flores Quintanilla<br/>
   Raúl Alfredo Hernández Miranda
-  <!-- Agrega tu nombre aquí como tu primer commit -->
 </p>
 
 <p align="center">
